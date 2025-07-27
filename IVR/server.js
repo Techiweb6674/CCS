@@ -19,6 +19,12 @@ function getSession(phone) {
   return sessionData[phone];
 }
 
+
+app.get('/', (req,res)=>{
+  res.send('/voice, /sms')
+})
+
+
 // 🟢 Entry point
 app.post('/voice', (req, res) => {
   const from = req.body.From;
