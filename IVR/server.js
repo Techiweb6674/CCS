@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 require('dotenv').config();
 
 
-
 const { twiml: { VoiceResponse } } = require('twilio');
 const { MessagingResponse } = require('twilio').twiml;
 
@@ -149,11 +148,6 @@ app.post('/handle-product-id', (req, res) => {
   response.redirect('/voice');
   res.type('text/xml').send(response.toString());
 });
-
-
-
-
-
 
 
 

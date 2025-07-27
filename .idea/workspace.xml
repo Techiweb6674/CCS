@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1995a58a-200c-43ed-ae13-4d860c392b5c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Contact_Strategy" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zs8nbQj1QC7RSrraklBx8CT6r8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContactStrategyApplication.executor": "Run",
+    "Application.com.Contact_Strategy.Controller.ContactStrategyApplication.executor": "Run",
+    "JUnit.ContactStrategyApplicationTests.contextLoads.executor": "Run",
+    "JUnit.ContactStrategyApplicationTests.executor": "Run",
+    "Maven.Contact_Strategy [clean,install,site:run].executor": "Run",
+    "Maven.Contact_Strategy [clean,install,site].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/diksh/IdeaProjects/Contact_Strategy",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.Contact_Strategy.Controller.ContactStrategyApplication">
+    <configuration name="com.Contact_Strategy.Controller.ContactStrategyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Contact_Strategy.Controller.ContactStrategyApplication" />
+      <module name="Contact_Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CCS.Contact_Strategy.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactStrategyApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Contact_Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Contact_Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Contact_Strategy" />
+      <option name="MAIN_CLASS_NAME" value="com.Contact_Strategy.ContactStrategyApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactStrategyApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Contact_Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Contact_Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Contact_Strategy" />
+      <option name="MAIN_CLASS_NAME" value="com.Contact_Strategy.ContactStrategyApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contact_Strategy [clean,install,site:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="site:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.com.Contact_Strategy.Controller.ContactStrategyApplication" />
+      <item itemvalue="JUnit.ContactStrategyApplicationTests" />
+      <item itemvalue="JUnit.ContactStrategyApplicationTests.contextLoads" />
+      <item itemvalue="Maven.Contact_Strategy [clean,install,site:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.Contact_Strategy.Controller.ContactStrategyApplication" />
+        <item itemvalue="JUnit.ContactStrategyApplicationTests" />
+        <item itemvalue="JUnit.ContactStrategyApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1995a58a-200c-43ed-ae13-4d860c392b5c" name="Changes" comment="" />
+      <created>1752508588523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752508588523</updated>
+    </task>
+    <servers />
+  </component>
+</project>
